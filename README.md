@@ -1,4 +1,4 @@
-<img width="714" height="704" alt="image" src="https://github.com/user-attachments/assets/d3dce5fd-ab27-4b30-a1d8-353c720715f7" /># Develop a Convolutional Deep Neural Network for Image Classification
+# Develop a Convolutional Deep Neural Network for Image Classification
 
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
